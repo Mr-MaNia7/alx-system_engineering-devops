@@ -1,1 +1,1 @@
-write bash functions
+write bash scripts
